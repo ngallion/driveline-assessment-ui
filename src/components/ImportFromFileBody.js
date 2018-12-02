@@ -1,6 +1,6 @@
 import React from "react";
 import csv from "csv";
-import axios from "axios";
+import axios from "../axios";
 
 const ImportFromFileBody = () => {
   let fileReader;
